@@ -1,1 +1,0 @@
-Diseño de una placa para el control de las heladas en la agricultura.
